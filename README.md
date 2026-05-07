@@ -22,4 +22,4 @@ Soy Ingeniero de Ejecución en Informática, enfocado en crear soluciones práct
 ## 📫 Cómo contactarme
 
 * **LinkedIn:** https://www.linkedin.com/in/alejandro-rojas-4801262bb/
-* **Email:** Rojas.alejandro.1g@gmail.com
+* **Email:** Muena.rojas.alejandro@gmail.com
