@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alejandro 
 
-Soy Ingeniero de Ejecución en Informática, enfocado en crear soluciones prácticas tanto web como móviles. Me encanta transformar ideas en código y aprender nuevas tecnologías.
+Soy Ingeniero de Ejecución en Informática, enfocado en crear soluciones prácticas tanto web como móviles. Me gusta transformar ideas en código y aprender nuevas tecnologías.
 
 ## 🛠️ Lenguajes y Herramientas:
 
